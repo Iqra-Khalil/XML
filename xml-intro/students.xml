@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml:stylesheet href="students.css" type="text/css" ?>
+<students>
+  <student>
+    <studentnumber>juw1101</studentnumber>
+    <firstname>kashaf</firstname>
+    <lastname>Naz</lastname>
+    <dateofbirth>04/10/1993</dateofbirth>
+    <Gender>female</Gender>
+  </student>
+  <student>
+    <studentnumber>juw1102</studentnumber>
+    <firstname>Mariam</firstname>
+    <lastname>usman</lastname>
+    <dateofbirth>8/22/1993</dateofbirth>
+    <Gender>female</Gender>
+  </student>
+  <student>
+    <studentnumber>juw1103</studentnumber>
+    <firstname>umme</firstname>
+    <lastname>Hani</lastname>
+    <dateofbirth>12/24/1993</dateofbirth>
+    <Gender>female</Gender>
+  </student>
+  <student>
+    <studentnumber>juw1104</studentnumber>
+    <firstname>zainab</firstname>
+    <lastname>khan</lastname>
+    <dateofbirth>02/06/1993</dateofbirth>
+    <Gender>female</Gender>
+  </student>
+</students>

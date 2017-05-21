@@ -1,0 +1,12 @@
+student {
+  display: block; }
+
+studentnumber {
+  font-family: Georgia, Garamond, 'Times New Roman', serif;
+  font-size:   12pt;
+  color:       #FF0000; }
+
+firstname, lastname, dateofbirth, gender {
+  font-family: Garamond, 'Times New Roman', Georgia, serif;
+  font-size:   12pt;
+  color:       #0000FF; }
